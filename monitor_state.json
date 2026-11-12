@@ -8,7 +8,7 @@
     "incident": false
   },
   "https://kriptomagazin.si/test-monitoring-napaka-503": {
-    "failed": 1,
-    "incident": false
+    "failed": 2,
+    "incident": true
   }
 }
