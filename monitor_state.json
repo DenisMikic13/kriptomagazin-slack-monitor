@@ -6,5 +6,9 @@
   "https://kriptomagazin.si/kripto-novice/": {
     "failed": 0,
     "incident": false
+  },
+  "https://kriptomagazin.si/test-monitoring-napaka-503": {
+    "failed": 1,
+    "incident": false
   }
 }
