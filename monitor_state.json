@@ -1,1 +1,10 @@
-{}
+{
+  "https://kriptomagazin.si/": {
+    "failed": 0,
+    "incident": false
+  },
+  "https://kriptomagazin.si/kripto-novice/": {
+    "failed": 0,
+    "incident": false
+  }
+}
