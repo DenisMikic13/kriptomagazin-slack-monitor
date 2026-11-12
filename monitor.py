@@ -10,7 +10,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 TARGETS = [
-    'https://kriptomagazin.si/',
+    'https://kriptomagazin.si/test-monitoring-napaka-503',
     'https://kriptomagazin.si/kripto-novice/',
 ]
 STATE_PATH = Path('monitor_state.json')
